@@ -34,7 +34,7 @@ It supports **addition, subtraction, multiplication, and division** for up to **
 ## 💻 Example Usage
 
     Calculator
-How many Numbers : 4
-Enter 4 numbers : 5 10 15 20
-enter operator : +
-Sum of number : 50.000000
+How many Numbers : 4<br>
+Enter 4 numbers : 5 10 15 20<br>
+enter operator : +<br>
+Sum of number : 50.000000<br>
